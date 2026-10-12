@@ -1,5 +1,5 @@
 // HC MONT Admin panel
-// Zahteva: Supabase tabela public.termini i Edge Function "posalji-email".
+// Zahteva: Supabase tabela public.termini i Edge Function "smooth-processor".
 
 const SUPABASE_URL = "https://iijebacrroyhazwclgtg.supabase.co";
 const SUPABASE_KEY = "sb_publishable_WME-nAIH0HpaEzmziyJVGw_qmnU4XVs";
